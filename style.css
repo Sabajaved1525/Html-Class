@@ -1,0 +1,64 @@
+body{
+    background:burlywood;
+}
+
+    .nav{
+        display: flex; gap: 10px;
+    }
+.nav1{
+     margin: 5px;
+    background: brown;
+    height: 200px;
+    width: 200px;
+}
+.nav2{
+     margin: 5px;
+ background: orange;
+    height: 150px;
+    width: 700px;
+}
+.main{
+    display: flex; gap: 20px;
+    background: red; 
+
+    
+}
+.main1{
+    margin: 5px;
+    background: pink;
+    height: 50px;
+    width: 100px;
+
+}
+.main2{
+     margin: 5px;
+    background: pink;
+    height: 50px;
+    width: 100px;
+
+}
+.footer{
+     display: flex; gap: 20px;
+}
+.footer1{
+    margin: 5px;
+    background: pink;
+    height: 50px;
+    width: 100px;
+
+}
+.footer2{
+    margin: 5px;
+    background: pink;
+    height: 50px;
+    width: 100px;
+
+}
+.footer3{
+    margin: 5px;
+    background: pink;
+    height: 50px;
+    width: 100px;
+
+}
+
